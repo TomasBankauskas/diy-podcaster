@@ -3,7 +3,7 @@ title: Advertising
 layout: page
 ---
 
-![About me](images/advertising.png)
+![About me](/images/advertising.png)
 
 ## Here are the facts!
 
